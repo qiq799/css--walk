@@ -1,0 +1,1 @@
+Little Bloom — Option B: Reinvent the Keyboard. Press 1, 2, 3 for slowly rotating flowers, 4 for large butterflies, 5 to clear, and 6 for growing vines that cover the screen. Mouse clicks plant flowers. All actions log to the JavaScript console.
